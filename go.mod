@@ -1,4 +1,4 @@
-module gopl.io
+module github.com/dr2cc/gopl.io.git
 
 go 1.16
 
