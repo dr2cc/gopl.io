@@ -1,10 +1,10 @@
 // Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
 // License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-// See page 156.
+// See page 191.
 
 // Package geometry defines simple types for plane geometry.
-//!+point
+// !+point
 package geometry
 
 import "math"
